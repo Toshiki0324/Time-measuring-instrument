@@ -8,7 +8,9 @@ In the time measuring instrument project, the position of the hand is estimated 
 
 
 
-The operating environment can be manipulated with TensorFlow, and the learning model can be detected by replacing it with a model created independently.
+The training model can be detected by replacing it with a model created by yourself. It detects that the hand has entered the area prepared in advance and sends the detection by MQTT to node-red to visualize it.
+### Prerequisites
+It is assumed that node-red is pre-installed. If you do not have it installed, you can install it from the Software Center.
 # Story
 We will work to reduce assembly time and production costs, but dedicated software is expensive and will not reach the people who need it. The purpose of this project is to contribute to many industries including manufacturing with the power of AI by providing an open source solution using cheap and high-speed AI edge devices with NVIDIA Jetson Nano.
 
