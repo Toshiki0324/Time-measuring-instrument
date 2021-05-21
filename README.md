@@ -31,3 +31,5 @@ $ sudo bash install-tf-v45.sh
 ```
 python3 time_measuring.py -l='label.txt' -m='frozen_inference_graph.pb' --host <your IPaddres> --t test
 ```
+
+systemctl status mosquitto
