@@ -24,7 +24,7 @@ Clone github and install the required libraries.
 ```
 $ https://github.com/Toshiki0324/Time-measuring-instrument.git
 $ cd Time-measuring-instrument.git
-$ ./install-tf-v45.sh
+$ sudo bash install-tf-v45.sh
 ```
 
 # How to use
