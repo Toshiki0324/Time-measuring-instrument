@@ -22,7 +22,7 @@ We will work to reduce assembly time and production costs, but dedicated softwar
 # Installation
 Clone github and install the required libraries.
 ```
-$ https://github.com/Toshiki0324/Time-measuring-instrument.git
+$ git clone https://github.com/Toshiki0324/Time-measuring-instrument.git
 $ cd Time-measuring-instrument.git
 $ sudo bash install-tf-v45.sh
 ```
