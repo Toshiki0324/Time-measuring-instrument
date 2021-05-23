@@ -5,7 +5,9 @@
 
 # Features 特徴
 In the time measuring instrument project, the position of the hand is estimated and the time from taking a part to taking the next part is measured and displayed. By visualizing time, you can discover the bottleneck areas and find opportunities for improvement.
+
 <img src="https://i.gyazo.com/4fbadf16b230abd6e81138c46a153981.jpg" width=50%>
+
 <img src="https://i.gyazo.com/69ed50192bc7492e679caf857067161f.jpg" width=50%>
 
 The training model can be detected by replacing it with a model created by yourself. It detects that the hand has entered the area prepared in advance and sends the detection by MQTT to node-red to visualize it.
