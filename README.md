@@ -2,7 +2,7 @@
 ## DEMO
 
 ### youtube Link
-[![](https://img.youtube.com/vi/2Ewn7LJ01yI&t=8s/0.jpg)](https://www.youtube.com/watch?v=2Ewn7LJ01yI&t=8s)
+https://www.youtube.com/watch?v=2Ewn7LJ01yI&t=8s
 
 # Features 特徴
 In the time measuring instrument project, the position of the hand is estimated and the time from taking a part to taking the next part is measured and displayed. By visualizing time, you can discover the bottleneck areas and find opportunities for improvement.
